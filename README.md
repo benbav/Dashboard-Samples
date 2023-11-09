@@ -13,6 +13,9 @@ Brief description of your project.
 
 Description of your dashboard and its significance. You can include a screenshot or gif to provide a preview.
 
+![Dashboard Screenshot](screenshots/looker_demo.png)
+
+
 #### Access the Dashboard
 Click [here](https://lookerstudio.google.com/reporting/aeaec2ec-d08c-4749-b980-396895fd29f3) to access the live dashboard.
 
