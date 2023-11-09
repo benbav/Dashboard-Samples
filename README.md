@@ -11,9 +11,6 @@ Brief description of your project.
 
 ## Dashboard
 
-### Looker Studio Dashboard
-[![Dashboard](link/to/your/dashboard-screenshot.png)](https://lookerstudio.google.com/reporting/aeaec2ec-d08c-4749-b980-396895fd29f3)
-
 Description of your dashboard and its significance. You can include a screenshot or gif to provide a preview.
 
 #### Access the Dashboard
