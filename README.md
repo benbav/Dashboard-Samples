@@ -1,6 +1,6 @@
 # Therapy Practice Example Dashboard 
 
-##THIS DATA IS ALL FICTITIOUS
+## THIS DATA IS ALL FICTITIOUS
 
 This is a skeleton of the dashboard template I used to help therapy practices manage their numbers. Data is fictitious. There is also a Google Ads tab but it is hidden. 
 
