@@ -9,9 +9,3 @@ Click [here](https://lookerstudio.google.com/reporting/aeaec2ec-d08c-4749-b980-3
 
 ![Dashboard Screenshot](screenshots/looker_demo.png)
 
-
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-# Additional setup steps, if any
